@@ -1,0 +1,6 @@
+pandas==2.2.3
+Flask==3.1.1
+flask-cors==6.0.0
+requests==2.32.3
+twilio==9.6.2
+python-dotenv==1.1.0
